@@ -1,0 +1,1 @@
+<label class="font-bold" for="{{ $for }}">{{ $title }}</label>
